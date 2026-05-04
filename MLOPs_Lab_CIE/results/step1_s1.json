@@ -1,0 +1,20 @@
+{
+    "experiment_name": "launchpredict-countdown-hold-min",
+    "models": [
+        {
+            "name": "LinearRegression",
+            "mae": 13.917708955260263,
+            "rmse": 15.87564335456436,
+            "r2": -0.2381786666615351
+        },
+        {
+            "name": "Ridge",
+            "mae": 14.144221810061548,
+            "rmse": 15.903858670599645,
+            "r2": -0.24258373505701392
+        }
+    ],
+    "best_model": "LinearRegression",
+    "best_metric_name": "rmse",
+    "best_metric_value": 15.87564335456436
+}

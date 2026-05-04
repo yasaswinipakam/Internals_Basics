@@ -1,0 +1,12 @@
+{
+ "image_name": "launchpredict-predictor",
+ "image_tag": "v1",
+ "base_image": "python:3.10-slim",
+ "test_input": {
+  "wind_speed_kmph": 23.1,
+  "humidity_pct": 51.7,
+  "payload_mass_kg": 7562.9,
+  "vehicle_type_index": 1
+ },
+ "prediction": 47.44985
+}

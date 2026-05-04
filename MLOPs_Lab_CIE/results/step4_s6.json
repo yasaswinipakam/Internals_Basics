@@ -1,0 +1,7 @@
+{
+    "registered_model_name": "launchpredict-countdown-hold-min-predictor",
+    "version": 1,
+    "run_id": "dca00f7b99f145b3bec7e7f53898f5f8",
+    "source_metric": "rmse",
+    "source_metric_value": 0.0
+}
